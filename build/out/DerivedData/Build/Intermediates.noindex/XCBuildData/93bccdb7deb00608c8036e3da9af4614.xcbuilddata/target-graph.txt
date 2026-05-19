@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'swift_result_type_demo' in project 'swift_result_type_demo' (no dependencies)
